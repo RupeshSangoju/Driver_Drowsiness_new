@@ -1,0 +1,6 @@
+Flask
+opencv-python
+dlib
+imutils
+python-vlc
+matplotlib
